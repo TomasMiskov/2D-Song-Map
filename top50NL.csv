@@ -1,0 +1,51 @@
+,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_ms,name,artists,popularity,explicit,album_type,release_date,artist_genres,dutch,rap,pop,rock,r&b,hip hop,dance
+0,0.908,0.52,0,-7.688,0,0.0782,0.0457,0.0,0.109,0.81,134.046,4,173534,Amsterdam,"['Cristian D', '$hirak', 'Brysa', 'Ashafar']",79,True,single,2022-01-13,"['dutch rap pop', 'dutch hip hop']",1,1,1,0,0,1,0
+1,0.69,0.274,0,-12.923,1,0.051,0.845,0.000428,0.12,0.663,131.704,4,211174,Dat heb jij gedaan,['MEAU'],80,False,single,2021-09-10,['dutch pop'],1,0,1,0,0,0,0
+2,0.73,0.771,6,-6.973,0,0.0534,0.0321,0.0,0.127,0.689,159.979,4,148468,Vluchtstrook,"['Kris Kross Amsterdam', 'Antoon', 'Sigourney K']",79,False,single,2021-11-26,"['dutch rap pop', 'dutch pop', 'dutch r&b', 'dutch house']",1,1,1,0,1,0,0
+3,0.917,0.487,1,-6.093,1,0.292,0.0284,2.18e-06,0.102,0.38,125.026,4,144996,Jongens Van Plein,"['Lil Kleine', 'JoeyAK']",74,True,album,2022-01-27,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
+4,0.648,0.637,10,-8.531,0,0.0584,0.287,0.0,0.263,0.736,170.124,4,172235,Amsterdam,['FLEMMING'],60,False,single,2021-10-22,['dutch pop'],1,0,1,0,0,0,0
+5,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,164819,The Motto,"['Tiësto', 'Ava Max']",93,False,single,2021-11-04,"['house', 'pop', 'tropical house', 'slap house', 'pop dance', 'dance pop', 'big room', 'brostep', 'edm', 'trance', 'dutch edm']",1,0,1,0,0,0,1
+6,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,4,173381,Enemy (with JID) - from the series Arcane League of Legends,"['Imagine Dragons', 'JID', 'Arcane', 'League of Legends']",78,False,album,2021-09-03,"['rock', 'rap', 'video game music', 'hip hop', 'speedrun', 'modern rock']",0,1,0,1,0,1,0
+7,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,4,168602,abcdefu,['GAYLE'],100,True,single,2021-08-13,['modern alternative pop'],0,0,1,0,0,0,0
+8,0.637,0.525,11,-6.432,0,0.463,0.0579,0.0,0.0759,0.233,98.053,4,179979,Honderd Ruggen,['Lil Kleine'],72,False,album,2022-01-27,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
+9,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,238805,Heat Waves,['Glass Animals'],94,False,album,2020-08-06,"['gauze pop', 'indietronica', 'shiver pop']",0,0,1,0,0,0,0
+10,0.4,0.547,2,-8.381,0,0.177,0.33,0.0,0.241,0.606,177.595,4,189720,L’enfer,['Stromae'],84,False,single,2022-01-09,"['g-house', 'belgian pop']",0,0,1,0,0,0,0
+11,0.805,0.466,9,-8.644,0,0.181,0.151,0.0,0.102,0.691,114.9,4,156000,Zij Wil Mij,['FLEMMING'],47,False,single,2022-01-07,['dutch pop'],1,0,1,0,0,0,0
+12,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,4,157890,Do It To It,"['ACRAZE', 'Cherish']",96,False,single,2021-08-20,"['southern hip hop', 'hip pop', 'r&b', 'urban contemporary', 'atl hip hop', 'girl group']",0,0,1,0,1,1,0
+13,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,0.441,109.414,4,175345,Fingers Crossed,['Lauren Spencer-Smith'],62,False,single,2022-01-05,"['gen z singer-songwriter', 'alt z', 'pop']",0,0,1,0,0,0,0
+14,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,4,224695,Easy On Me,['Adele'],91,False,album,2021-11-19,"['british soul', 'pop soul', 'pop', 'uk pop']",0,0,1,0,0,0,0
+15,0.67,0.896,1,-4.673,1,0.058,0.0342,3.21e-05,0.344,0.403,101.216,3,160000,Thunder,"['Gabry Ponte', 'LUM!X', 'Prezioso']",88,False,single,2021-05-07,"['melbourne bounce international', 'slap house', 'eurodance', 'europop', 'italo dance']",0,0,1,0,0,0,1
+16,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,4,202735,Cold Heart - PNAU Remix,"['Elton John', 'Dua Lipa', 'PNAU']",78,False,album,2021-10-22,"['australian dance', 'piano rock', 'australian electropop', 'pop', 'aussietronica', 'glam rock', 'dance pop', 'alternative dance', 'mellow gold', 'uk pop']",0,0,1,1,0,0,1
+17,0.638,0.718,0,-3.995,0,0.0254,0.175,0.0,0.182,0.418,101.013,4,194453,Hard To Say Goodbye,['RONDÉ'],73,False,single,2021-08-11,"['dutch indie', 'dutch pop', 'dutch rock']",1,0,1,1,0,0,0
+18,0.647,0.474,6,-11.303,1,0.0773,0.423,4.07e-05,0.14,0.702,105.208,4,162857,In M'n Bloed,['Snelle'],73,False,single,2021-12-09,"['dutch hip hop', 'dutch pop']",1,0,1,0,0,1,0
+19,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,4,207853,Shivers,['Ed Sheeran'],95,False,album,2021-10-29,"['pop', 'uk pop']",0,0,1,0,0,0,0
+20,0.398,0.286,7,-11.881,1,0.033,0.616,0.000146,0.0912,0.0666,78.262,4,222800,It'll Be Okay,['Shawn Mendes'],90,False,single,2021-12-01,"['canadian pop', 'viral pop', 'dance pop', 'pop']",0,0,1,0,0,0,1
+21,0.542,0.659,8,-7.289,1,0.0389,0.00279,0.0,0.105,0.109,120.122,4,234000,Moth To A Flame (with The Weeknd),"['Swedish House Mafia', 'The Weeknd']",92,False,single,2021-10-22,"['electro house', 'progressive electro house', 'canadian pop', 'pop', 'pop dance', 'canadian contemporary r&b', 'dance pop', 'edm']",0,0,1,0,1,0,1
+22,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4,287120,Pepas,['Farruko'],86,True,album,2021-10-01,"['trap latino', 'latin', 'reggaeton']",0,1,0,0,0,0,0
+23,0.956,0.417,7,-7.892,0,0.0926,0.572,0.00071,0.0782,0.714,108.015,4,187111,Peru,"['Fireboy DML', 'Ed Sheeran']",77,False,single,2021-12-24,"['pop', 'uk pop']",0,0,1,0,0,0,0
+24,0.738,0.549,6,-9.704,1,0.0513,0.638,0.402,0.111,0.475,98.965,4,164848,Emiliana,['CKay'],84,False,single,2021-12-03,['afro r&b'],0,0,0,0,1,0,0
+25,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,4,153190,Ghost,['Justin Bieber'],92,False,album,2021-03-19,"['canadian pop', 'pop']",0,0,1,0,0,0,0
+26,0.677,0.721,10,-5.482,0,0.0446,0.258,1.6e-06,0.153,0.779,150.031,4,134400,Leven,['Maan'],47,False,single,2021-12-02,"['dutch pop', 'dutch rock']",1,0,1,1,0,0,0
+27,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,4,148197,Where Are You Now,"['Lost Frequencies', 'Calum Scott']",94,False,single,2021-07-30,"['tropical house', 'pop', 'pop dance', 'edm', 'belgian edm', 'neo mellow']",0,0,1,0,0,0,1
+28,0.735,0.795,11,-6.523,0,0.113,0.0296,3.18e-05,0.0678,0.905,122.0,4,188918,Sacrifice,['The Weeknd'],93,True,album,2022-01-06,"['canadian pop', 'canadian contemporary r&b', 'pop']",0,0,1,0,1,0,0
+29,0.809,0.644,0,-8.753,1,0.0342,0.23,2.54e-06,0.204,0.859,120.01,4,147000,Leuk,"['Antoon', 'Big2']",73,False,single,2020-11-27,"['dutch hip hop', 'dutch pop']",1,0,1,0,0,1,0
+30,0.593,0.573,1,-6.925,1,0.259,0.00214,0.0,0.281,0.44,93.384,4,158015,Schaap & Citroen,"['Lil Kleine', 'JoeyAK']",69,True,album,2022-01-27,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
+31,0.835,0.612,0,-7.722,1,0.107,0.037,6.53e-06,0.244,0.515,100.023,4,197131,No Cry,"['Lil Kleine', 'Ronnie Flex']",68,True,album,2022-01-27,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
+32,0.909,0.569,0,-7.013,0,0.212,0.636,4.55e-05,0.0667,0.922,125.004,4,180480,Hoe Niet?,"['Mensa', 'Saaff']",71,False,single,2021-12-10,"['dutch rap pop', 'dutch hip hop', 'dutch drill']",1,1,1,0,0,1,0
+33,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,4,141806,STAY (with Justin Bieber),"['The Kid LAROI', 'Justin Bieber']",92,True,album,2021-07-23,"['australian hip hop', 'canadian pop', 'pop']",0,0,1,0,0,1,0
+34,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,4,163855,Sunshine,['OneRepublic'],84,False,single,2021-11-10,"['pop rock', 'pop', 'piano rock', 'dance pop']",0,0,1,1,0,0,1
+35,0.732,0.578,7,-10.588,0,0.32,0.737,1.52e-06,0.329,0.445,70.045,4,195563,Was Er Nooit,['Lijpe'],71,True,single,2022-01-20,['dutch hip hop'],1,0,0,0,0,1,0
+36,0.577,0.45,0,-8.516,0,0.0834,0.357,0.0,0.111,0.83,205.863,4,216120,We Don't Talk About Bruno,"['Carolina Gaitán - La Gaita', 'Mauro Castillo', 'Adassa', 'Rhenzy Feliz', 'Diane Guerrero', 'Stephanie Beatriz', 'Encanto - Cast']",96,False,album,2021-11-19,"['latin hip hop', 'salsa colombiana', 'reggaeton', 'latin', 'modern salsa']",0,0,0,0,0,1,0
+37,0.823,0.493,11,-8.336,0,0.135,0.0703,0.0,0.0883,0.569,127.094,4,199690,Streken Van Een Duivel,"['Bilal Wahib', 'Frenna']",66,False,album,2021-11-25,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
+38,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,4,143901,THATS WHAT I WANT,['Lil Nas X'],95,True,album,2021-09-17,"['pop', 'lgbtq+ hip hop']",0,0,1,0,0,1,0
+39,0.516,0.593,4,-7.408,0,0.471,0.63,0.0,0.0973,0.3,176.728,4,185722,Monaco,"['Dopebwoy', 'Boef', 'SRNO']",67,False,single,2022-01-28,"['dutch rap pop', 'dutch hip hop']",1,1,1,0,0,1,0
+40,0.534,0.725,1,-3.906,1,0.046,0.091,0.0,0.0264,0.55,88.098,4,225149,Oh My God,['Adele'],93,False,album,2021-11-19,"['british soul', 'pop soul', 'pop', 'uk pop']",0,0,1,0,0,0,0
+41,0.563,0.511,0,-6.415,0,0.122,0.458,0.0,0.108,0.21,113.171,5,206405,In De Nacht,['Yade Lauren'],72,False,single,2021-10-22,"['dutch rap pop', 'dutch pop']",1,1,1,0,0,0,0
+42,0.696,0.727,2,-4.516,0,0.166,0.316,0.0,0.252,0.786,120.05,4,173283,Bon Gepakt,"['Donnie', 'Rene Froger']",71,True,single,2021-09-02,"['nederpop', 'dutch hip hop', 'dutch rock', 'dutch pop', 'levenslied']",1,0,1,1,0,1,0
+43,0.52,0.849,9,-3.794,0,0.186,0.00253,0.0,0.119,0.774,175.908,4,236907,Overpass Graffiti,['Ed Sheeran'],87,False,album,2021-10-29,"['pop', 'uk pop']",0,0,1,0,0,0,0
+44,0.684,0.559,6,-9.072,0,0.255,0.163,0.0,0.149,0.223,96.361,4,142743,Over,"['Lil Kleine', 'Boef']",68,False,album,2022-01-27,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
+45,0.391,0.335,0,-10.064,1,0.0763,0.389,0.0,0.102,0.116,174.185,3,193733,GHOST TOWN,['Benson Boone'],86,False,single,2021-10-15,[],0,0,0,0,0,0,0
+46,0.727,0.52,1,-9.623,0,0.0562,0.209,5.56e-05,0.218,0.341,127.929,4,170106,Nog Een Dans,['Lil Kleine'],68,True,album,2022-01-27,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
+47,0.649,0.407,9,-12.874,0,0.434,0.331,0.0,0.109,0.459,93.906,4,221227,Ibiza Stories,['Lil Kleine'],68,True,album,2022-01-27,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
+48,0.699,0.449,10,-7.759,1,0.119,0.595,0.0,0.155,0.543,144.88,4,175995,Vreemde Voor Mij,"['Sigourney K', 'Sevn Alias']",71,False,single,2021-09-30,"['dutch rap pop', 'dutch hip hop', 'dutch pop', 'dutch r&b']",1,1,1,0,1,1,0
+49,0.812,0.599,8,-9.73,1,0.305,0.212,4.96e-06,0.121,0.547,94.979,4,113663,Bosmuis,['Lil Kleine'],67,True,album,2022-01-27,"['dutch rap pop', 'dutch hip hop', 'dutch pop']",1,1,1,0,0,1,0
